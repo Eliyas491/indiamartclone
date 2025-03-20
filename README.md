@@ -113,7 +113,8 @@ npm run build
 ## 🌐 Deployment
 
 The application is deployed on Netlify and can be accessed at:
-[https://beautiful-malabi-b51066.netlify.app](https://beautiful-malabi-b51066.netlify.app)
+[https://m-indiamartunique.netlify.app/]
+
 
 ## 📝 Development Guidelines
 
